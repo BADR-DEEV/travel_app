@@ -4,7 +4,6 @@ English | [简体中文](./README.zh-CN.md)
 Flutter representation of a Travel App Concept i found in Uplabs. 
 **It only consists of 2 screens.**
 
-Star⭐ the repo if you like what you see😉.
 
 
 Images are from [Unsplash](https://unsplash.com)
@@ -14,23 +13,23 @@ Images are from [Unsplash](https://unsplash.com)
 
 | 1 | 2|
 |------|-------|
-|<img src="ss/2.png" width="400">|<img src="ss/3.png" width="400">|
+|<img src="ss/first.png" width="400">|<img src="ss/3.png" width="400">|
 
 | 3 | 4|
 |------|-------|
-|<img src="ss/4.png" width="400">|<img src="ss/5.png" width="400">|
+|<img src="ss/third.png" width="400">|<img src="ss/5.png" width="400">|
 
 
 ## Toggle theme
 The App's theme adapts to your device's theme
 
-## ✨ Requirements
+## Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
 * Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
 * A little knowledge of Dart and Flutter
 * A brain to think 🤓🤓
 
-## 🤓 Author(s)
+## Author(s)
 **Olusegun Festus Babajide** [![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
 
 
