@@ -9,15 +9,15 @@ Flutter representation of a Travel App Concept i found in Uplabs.
 Images are from [Unsplash](https://unsplash.com)
 ## 📸 ScreenShots
 
-<img src="ss/1.png"/>
 
-| 1 | 2|
-|------|-------|
-|<img src="ss/first.png" width="400">|<img src="ss/3.png" width="400">|
 
-| 3 | 4|
-|------|-------|
-|<img src="ss/third.png" width="400">|<img src="ss/5.png" width="400">|
+| 1 |
+|------|
+|<img src="ss/first.png" width="400">|<img src="ss/second.png" width="400">|
+
+| 2 
+|------|
+|<img src="ss/third.png" width="400">
 
 
 ## Toggle theme
